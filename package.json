@@ -1,6 +1,6 @@
 {
   "name": "glsl-noise",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "webgl-noise shaders ported to work with glslify",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hughsk/glsl-noise.git"
+    "url": "git://github.com/influenceth/glsl-noise.git"
   },
   "keywords": [
     "glsl",
@@ -19,9 +19,9 @@
     "webgl",
     "glslify"
   ],
-  "author": "Ian McEwan, Ashima Arts, Stefan Gustavson",
+  "author": "Unstoppable Games, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hughsk/glsl-noise/issues"
+    "url": "https://github.com/influenceth/glsl-noise/issues"
   }
 }
